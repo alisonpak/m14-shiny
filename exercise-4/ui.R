@@ -1,4 +1,4 @@
-# ui.R  
+# ui.R . 
 library(shiny)
 library(plotly)
 shinyUI(navbarPage('Electoral College',
