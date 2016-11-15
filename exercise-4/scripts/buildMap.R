@@ -31,5 +31,5 @@ BuildMap <- function(data, map.var) {
       title = str_to_title(map.var),
       geo = g
     )
-   return(p)
+  return(p)
 }
